@@ -1,0 +1,80 @@
+[
+  {
+    "id": 209,
+    "generic": "Sterile Water for Injection",
+    "brands": [
+      "SWFI"
+    ]
+  },
+  {
+    "id": 200,
+    "generic": "Normal Saline",
+    "brands": [
+      "NS",
+      "0.9% NaCl"
+    ]
+  },
+  {
+    "id": 201,
+    "generic": "Ringer's Lactate",
+    "brands": [
+      "LR",
+      "RL",
+      "Hartmann's Solution"
+    ]
+  },
+  {
+    "id": 202,
+    "generic": "5% Dextrose in Water",
+    "brands": [
+      "D5W"
+    ]
+  },
+  {
+    "id": 203,
+    "generic": "5% Dextrose in 0.45% Normal Saline",
+    "brands": [
+      "D5 1/2 NS"
+    ]
+  },
+  {
+    "id": 204,
+    "generic": "0.45% Normal Saline",
+    "brands": [
+      "1/2 NS",
+      "Half-Normal Saline"
+    ]
+  },
+  {
+    "id": 205,
+    "generic": "2.5% Dextrose in Water",
+    "brands": [
+      "D2.5W"
+    ]
+  },
+  {
+    "id": 206,
+    "generic": "5% Dextrose in 0.9% Saline",
+    "brands": [
+      "D5NS",
+      "GS"
+    ]
+  },
+
+  {
+    "id": 208,
+    "generic": "5% Dextrose in 0.3% Sodium Chloride",
+    "brands": [
+      "D5 0.3% NaCl"
+    ]
+  },
+  {
+    "generic": "Other (Hypotonic/Hypertonic)",
+    "brands": ["Custom fluids"],
+    "others": [
+      { "generic": "3% Sodium Chloride", "brands": ["Hypertonic Saline"] },
+      { "generic": "7% Sodium Chloride", "brands": ["Hypertonic Saline"] },
+      { "generic": "0.225% Sodium Chloride", "brands": ["1/4 NS"] }
+    ]
+  }
+]
