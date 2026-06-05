@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "generic": "Paracetamol",
+    "brands": [
+      "Panadol",
+      "Tylenol",
+      "Calpol"
+    ],
+    "routes": [
+      "PO",
+      "PR",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 2,
+    "generic": "Ibuprofen",
+    "brands": [
+      "Advil",
+      "Nurofen",
+      "Brufen",
+      "Motrin"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 3,
+    "generic": "Morphine",
+    "brands": [
+      "MS Contin",
+      "Oramorph",
+      "Sevredol"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM",
+      "SC"
+    ]
+  },
+  {
+    "id": 4,
+    "generic": "Omeprazole",
+    "brands": [
+      "Losec",
+      "Prilosec"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 5,
+    "generic": "Metformin",
+    "brands": [
+      "Glucophage",
+      "Fortamet"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 6,
+    "generic": "Amoxicillin",
+    "brands": [
+      "Amoxil",
+      "Trimox"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 7,
+    "generic": "Metronidazole",
+    "brands": [
+      "Flagyl",
+      "Metrogel"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 8,
+    "generic": "Ciprofloxacin",
+    "brands": [
+      "Cipro",
+      "Ciproxin"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 9,
+    "generic": "Ondansetron",
+    "brands": [
+      "Zofran",
+      "Zuplenz"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 10,
+    "generic": "Furosemide",
+    "brands": [
+      "Lasix"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 11,
+    "generic": "Atorvastatin",
+    "brands": [
+      "Lipitor",
+      "Torvast"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 12,
+    "generic": "Amlodipine",
+    "brands": [
+      "Norvasc",
+      "Istin"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 13,
+    "generic": "Metoprolol",
+    "brands": [
+      "Lopressor",
+      "Toprol-XL",
+      "Betaloc"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 14,
+    "generic": "Lisinopril",
+    "brands": [
+      "Zestril",
+      "Prinivil",
+      "Qbrelis"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 15,
+    "generic": "Dexamethasone",
+    "brands": [
+      "Decadron",
+      "Dexasone",
+      "Ozurdex"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 16,
+    "generic": "Hydrocortisone",
+    "brands": [
+      "Solu-Cortef",
+      "Cortef"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 17,
+    "generic": "Insulin (Regular)",
+    "brands": [
+      "Humulin R",
+      "Novolin R",
+      "Actrapid"
+    ],
+    "routes": [
+      "SC",
+      "IV"
+    ]
+  },
+  {
+    "id": 18,
+    "generic": "Insulin (Glargine)",
+    "brands": [
+      "Lantus",
+      "Toujeo",
+      "Basaglar"
+    ],
+    "routes": [
+      "SC"
+    ]
+  },
+  {
+    "id": 19,
+    "generic": "Heparin",
+    "brands": [
+      "Hep-Lock",
+      "Hepflush"
+    ],
+    "routes": [
+      "IV",
+      "SC"
+    ]
+  },
+  {
+    "id": 20,
+    "generic": "Warfarin",
+    "brands": [
+      "Coumadin",
+      "Marevan"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 21,
+    "generic": "Aspirin",
+    "brands": [
+      "Disprin",
+      "Bayer Aspirin",
+      "Ecotrin"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 22,
+    "generic": "Clopidogrel",
+    "brands": [
+      "Plavix",
+      "Iscover"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 23,
+    "generic": "Enoxaparin",
+    "brands": [
+      "Clexane",
+      "Lovenox"
+    ],
+    "routes": [
+      "SC",
+      "IV"
+    ]
+  },
+  {
+    "id": 24,
+    "generic": "Salbutamol",
+    "brands": [
+      "Ventolin",
+      "ProAir",
+      "Salamol"
+    ],
+    "routes": [
+      "PO",
+      "INH",
+      "IV",
+      "SC"
+    ]
+  },
+  {
+    "id": 25,
+    "generic": "Ipratropium",
+    "brands": [
+      "Atrovent",
+      "Apovent"
+    ],
+    "routes": [
+      "INH"
+    ]
+  },
+  {
+    "id": 26,
+    "generic": "Prednisolone",
+    "brands": [
+      "Prelone",
+      "Deltacortril"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 27,
+    "generic": "Amoxicillin-Clavulanate",
+    "brands": [
+      "Augmentin",
+      "Clavulin",
+      "Co-amoxiclav"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 28,
+    "generic": "Ceftriaxone",
+    "brands": [
+      "Rocephin"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 29,
+    "generic": "Vancomycin",
+    "brands": [
+      "Vancocin"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 30,
+    "generic": "Piperacillin-Tazobactam",
+    "brands": [
+      "Tazocin",
+      "Zosyn"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 31,
+    "generic": "Meropenem",
+    "brands": [
+      "Merrem",
+      "Meronem"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 32,
+    "generic": "Gentamicin",
+    "brands": [
+      "Garamycin",
+      "Cidomycin"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 33,
+    "generic": "Fluconazole",
+    "brands": [
+      "Diflucan"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 34,
+    "generic": "Acyclovir",
+    "brands": [
+      "Zovirax"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 35,
+    "generic": "Digoxin",
+    "brands": [
+      "Lanoxin",
+      "Digitek"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 36,
+    "generic": "Atropine",
+    "brands": [
+      "AtroPen"
+    ],
+    "routes": [
+      "IV",
+      "IM",
+      "SC"
+    ]
+  },
+  {
+    "id": 37,
+    "generic": "Epinephrine",
+    "brands": [
+      "EpiPen",
+      "Adrenaline",
+      "Auvi-Q"
+    ],
+    "routes": [
+      "IV",
+      "IM",
+      "SC"
+    ]
+  },
+  {
+    "id": 38,
+    "generic": "Dopamine",
+    "brands": [
+      "Intropin"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 39,
+    "generic": "Norepinephrine",
+    "brands": [
+      "Levophed",
+      "Noradrenaline"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 40,
+    "generic": "Dobutamine",
+    "brands": [
+      "Dobutrex"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 41,
+    "generic": "Amiodarone",
+    "brands": [
+      "Cordarone",
+      "Pacerone"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 42,
+    "generic": "Adenosine",
+    "brands": [
+      "Adenocard",
+      "Adenocor"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 43,
+    "generic": "Magnesium Sulfate",
+    "brands": [
+      "MgSO4"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 44,
+    "generic": "Potassium Chloride",
+    "brands": [
+      "Kay Ciel",
+      "K-Lor",
+      "Klor-Con"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 45,
+    "generic": "Sodium Chloride 0.9%",
+    "brands": [
+      "Normal Saline"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 46,
+    "generic": "Dextrose 5%",
+    "brands": [
+      "D5W",
+      "Glucose 5%"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 47,
+    "generic": "Ringer's Lactate",
+    "brands": [
+      "Hartmann's Solution",
+      "Lactated Ringer's"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 48,
+    "generic": "Midazolam",
+    "brands": [
+      "Versed",
+      "Dormicum",
+      "Hypnovel"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM",
+      "IN"
+    ]
+  },
+  {
+    "id": 49,
+    "generic": "Diazepam",
+    "brands": [
+      "Valium"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM",
+      "PR"
+    ]
+  },
+  {
+    "id": 50,
+    "generic": "Lorazepam",
+    "brands": [
+      "Ativan"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 51,
+    "generic": "Haloperidol",
+    "brands": [
+      "Haldol",
+      "Serenace"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 52,
+    "generic": "Tramadol",
+    "brands": [
+      "Ultram",
+      "Tramal",
+      "Zydol"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 53,
+    "generic": "Fentanyl",
+    "brands": [
+      "Duragesic",
+      "Sublimaze"
+    ],
+    "routes": [
+      "IV",
+      "IM",
+      "IN",
+      "TD"
+    ]
+  },
+  {
+    "id": 54,
+    "generic": "Ketamine",
+    "brands": [
+      "Ketalar",
+      "Calypsol"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 55,
+    "generic": "Propofol",
+    "brands": [
+      "Diprivan"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 56,
+    "generic": "Metoclopramide",
+    "brands": [
+      "Maxolon",
+      "Reglan",
+      "Primperan"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 57,
+    "generic": "Ranitidine",
+    "brands": [
+      "Zantac"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 58,
+    "generic": "Pantoprazole",
+    "brands": [
+      "Protonix",
+      "Pantoloc",
+      "Somac"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 59,
+    "generic": "Lactulose",
+    "brands": [
+      "Duphalac",
+      "Enulose",
+      "Kristalose"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 60,
+    "generic": "Bisacodyl",
+    "brands": [
+      "Dulcolax"
+    ],
+    "routes": [
+      "PO",
+      "PR"
+    ]
+  },
+  {
+    "id": 61,
+    "generic": "Spironolactone",
+    "brands": [
+      "Aldactone"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 62,
+    "generic": "Hydrochlorothiazide",
+    "brands": [
+      "Microzide",
+      "HydroDIURIL"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 63,
+    "generic": "Enalapril",
+    "brands": [
+      "Vasotec",
+      "Renitec"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 64,
+    "generic": "Ramipril",
+    "brands": [
+      "Altace",
+      "Tritace"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 65,
+    "generic": "Losartan",
+    "brands": [
+      "Cozaar"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 66,
+    "generic": "Carvedilol",
+    "brands": [
+      "Coreg"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 67,
+    "generic": "Bisoprolol",
+    "brands": [
+      "Concor",
+      "Zebeta",
+      "Cardicor"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 68,
+    "generic": "Nitroglycerin",
+    "brands": [
+      "GTN",
+      "Nitrostat",
+      "Nitro-Bid"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "SL",
+      "TD",
+      "TOP"
+    ]
+  },
+  {
+    "id": 69,
+    "generic": "Isosorbide Mononitrate",
+    "brands": [
+      "Imdur",
+      "ISMO",
+      "Monoket"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 70,
+    "generic": "Simvastatin",
+    "brands": [
+      "Zocor"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 71,
+    "generic": "Rosuvastatin",
+    "brands": [
+      "Crestor"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 72,
+    "generic": "Levothyroxine",
+    "brands": [
+      "Synthroid",
+      "Eltroxin",
+      "Euthyrox"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 73,
+    "generic": "Glibenclamide",
+    "brands": [
+      "Daonil",
+      "Euglucon",
+      "Micronase"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 74,
+    "generic": "Glipizide",
+    "brands": [
+      "Glucotrol"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 75,
+    "generic": "Phenytoin",
+    "brands": [
+      "Dilantin",
+      "Epanutin"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 76,
+    "generic": "Carbamazepine",
+    "brands": [
+      "Tegretol",
+      "Carbatrol",
+      "Epitol"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 77,
+    "generic": "Valproic Acid",
+    "brands": [
+      "Depakote",
+      "Epilim"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 78,
+    "generic": "Levetiracetam",
+    "brands": [
+      "Keppra",
+      "Keppra XR"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 79,
+    "generic": "Sertraline",
+    "brands": [
+      "Zoloft",
+      "Lustral"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 80,
+    "generic": "Fluoxetine",
+    "brands": [
+      "Prozac",
+      "Sarafem"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 81,
+    "generic": "Amitriptyline",
+    "brands": [
+      "Elavil",
+      "Tryptizol"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 82,
+    "generic": "Olanzapine",
+    "brands": [
+      "Zyprexa"
+    ],
+    "routes": [
+      "PO",
+      "IM"
+    ]
+  },
+  {
+    "id": 83,
+    "generic": "Risperidone",
+    "brands": [
+      "Risperdal",
+      "Risperdal Consta"
+    ],
+    "routes": [
+      "PO",
+      "IM"
+    ]
+  },
+  {
+    "id": 84,
+    "generic": "Allopurinol",
+    "brands": [
+      "Zyloprim",
+      "Zyloric",
+      "Aloprim"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 85,
+    "generic": "Colchicine",
+    "brands": [
+      "Colcrys",
+      "Mitigare",
+      "Gloperba"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 86,
+    "generic": "Dalteparin",
+    "brands": [
+      "Fragmin"
+    ],
+    "routes": [
+      "SC"
+    ]
+  },
+  {
+    "id": 87,
+    "generic": "Alteplase",
+    "brands": [
+      "Activase",
+      "Actilyse"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 88,
+    "generic": "Calcium Gluconate",
+    "brands": [
+      "Cal-Glucon"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 89,
+    "generic": "Zinc Sulfate",
+    "brands": [
+      "Zincomed"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 90,
+    "generic": "Thiamine (Vitamin B1)",
+    "brands": [
+      "Betaxin",
+      "Benfotiamine"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 91,
+    "generic": "Folic Acid",
+    "brands": [
+      "Folvite"
+    ],
+    "routes": [
+      "PO"
+    ]
+  },
+  {
+    "id": 92,
+    "generic": "Ferrous Sulfate",
+    "brands": [
+      "Feosol",
+      "Slow-Fe"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 93,
+    "generic": "Vitamin K (Phytomenadione)",
+    "brands": [
+      "Konakion",
+      "Mephyton"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM",
+      "SC"
+    ]
+  },
+  {
+    "id": 94,
+    "generic": "Naloxone",
+    "brands": [
+      "Narcan",
+      "Prenoxad"
+    ],
+    "routes": [
+      "IV",
+      "IM",
+      "SC",
+      "IN"
+    ]
+  },
+  {
+    "id": 95,
+    "generic": "Flumazenil",
+    "brands": [
+      "Romazicon",
+      "Anexate"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 96,
+    "generic": "Hydralazine",
+    "brands": [
+      "Apresoline",
+      "Nepresol"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 97,
+    "generic": "Labetalol",
+    "brands": [
+      "Trandate"
+    ],
+    "routes": [
+      "PO",
+      "IV"
+    ]
+  },
+  {
+    "id": 98,
+    "generic": "Oxytocin",
+    "brands": [
+      "Pitocin",
+      "Syntocinon"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 99,
+    "generic": "Methylprednisolone",
+    "brands": [
+      "Solu-Medrol",
+      "Depo-Medrol",
+      "Medrol"
+    ],
+    "routes": [
+      "PO",
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 100,
+    "generic": "Cefazolin",
+    "brands": [
+      "Ancef",
+      "Kefzol"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 101,
+    "generic": "Cefepime",
+    "brands": [
+      "Maxipime"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 102,
+    "generic": "Ampicillin-Sulbactam",
+    "brands": [
+      "Unasyn"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 103,
+    "generic": "Imipenem-Cilastatin",
+    "brands": [
+      "Primaxin"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 104,
+    "generic": "Amikacin",
+    "brands": [
+      "Amikin"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 105,
+    "generic": "Azithromycin",
+    "brands": [
+      "Zithromax"
+    ],
+    "routes": [
+      "IV",
+      "PO"
+    ]
+  },
+  {
+    "id": 106,
+    "generic": "Ketorolac",
+    "brands": [
+      "Toradol"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 107,
+    "generic": "Dexmedetomidine",
+    "brands": [
+      "Precedex"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 108,
+    "generic": "Rocuronium",
+    "brands": [
+      "Zemuron",
+      "Esmeron"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 109,
+    "generic": "Succinylcholine",
+    "brands": [
+      "Anectine",
+      "Quelicin"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 110,
+    "generic": "Vecuronium",
+    "brands": [
+      "Norcuron"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 111,
+    "generic": "Pancuronium",
+    "brands": [
+      "Pavulon"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 112,
+    "generic": "Neostigmine",
+    "brands": [
+      "Prostigmin"
+    ],
+    "routes": [
+      "IV",
+      "IM",
+      "SC"
+    ]
+  },
+  {
+    "id": 113,
+    "generic": "Vasopressin",
+    "brands": [
+      "Pitressin",
+      "Vasostrict"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 114,
+    "generic": "Phenylephrine",
+    "brands": [
+      "Neosynephrine"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 115,
+    "generic": "Diltiazem",
+    "brands": [
+      "Cardizem"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 116,
+    "generic": "Nicardipine",
+    "brands": [
+      "Cardene"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 117,
+    "generic": "Nitroprusside",
+    "brands": [
+      "Nipride",
+      "Nitropress"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 118,
+    "generic": "Enalaprilat",
+    "brands": [
+      "Vasotec IV"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 119,
+    "generic": "Mannitol",
+    "brands": [
+      "Osmitrol"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 120,
+    "generic": "Promethazine",
+    "brands": [
+      "Phenergan"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 121,
+    "generic": "Insulin (Aspart)",
+    "brands": [
+      "NovoRapid",
+      "NovoLog"
+    ],
+    "routes": [
+      "SC",
+      "IV"
+    ]
+  },
+  {
+    "id": 122,
+    "generic": "Glucagon",
+    "brands": [
+      "GlucaGen"
+    ],
+    "routes": [
+      "IV",
+      "IM",
+      "SC"
+    ]
+  },
+  {
+    "id": 123,
+    "generic": "Dextrose 50%",
+    "brands": [
+      "D50W"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 124,
+    "generic": "Sodium Bicarbonate",
+    "brands": [
+      "NaHCO3"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 125,
+    "generic": "Calcium Chloride",
+    "brands": [
+      "CaCl2"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 126,
+    "generic": "Albumin",
+    "brands": [
+      "Albuminar",
+      "Flexbumin"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 127,
+    "generic": "Ergometrine",
+    "brands": [
+      "Ergonovine",
+      "Ergotrate"
+    ],
+    "routes": [
+      "IV",
+      "IM"
+    ]
+  },
+  {
+    "id": 128,
+    "generic": "Dextrose 10%",
+    "brands": [
+      "D10W",
+      "Glucose 10%"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 129,
+    "generic": "Ipratropium (Nebulized)",
+    "brands": [
+      "Atrovent"
+    ],
+    "routes": [
+      "INH"
+    ]
+  },
+  {
+    "id": 130,
+    "generic": "Salbutamol (Nebulized)",
+    "brands": [
+      "Ventolin"
+    ],
+    "routes": [
+      "INH"
+    ]
+  },
+  {
+    "id": 131,
+    "generic": "Budesonide (Nebulized)",
+    "brands": [
+      "Pulmicort"
+    ],
+    "routes": [
+      "INH"
+    ]
+  },
+  {
+    "id": 132,
+    "generic": "Aminophylline",
+    "brands": [
+      "Truphylline"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 133,
+    "generic": "Protamine Sulfate",
+    "brands": [
+      "Protamine"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 134,
+    "generic": "Tranexamic Acid",
+    "brands": [
+      "Cyklokapron",
+      "Lysteda"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 135,
+    "generic": "Fresh Frozen Plasma",
+    "brands": [
+      "FFP"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 136,
+    "generic": "Packed Red Blood Cells",
+    "brands": [
+      "PRBC"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 137,
+    "generic": "Platelets",
+    "brands": [
+      "PLT Concentrate"
+      ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 138,
+    "generic": "Normal Saline 0.9%",
+    "brands": [
+      "NS",
+      "0.9% NaCl"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 139,
+    "generic": "5% Dextrose in Water",
+    "brands": [
+      "D5W",
+      "GW"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 140,
+    "generic": "5% Dextrose in 0.9% Saline",
+    "brands": [
+      "D5NS",
+      "GS"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 141,
+    "generic": "Ringer's Lactate",
+    "brands": [
+      "RL",
+      "Hartmann's Solution"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 142,
+    "generic": "5% Dextrose in 0.45% Saline",
+    "brands": [
+      "D5 1/2NS"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 144,
+    "generic": "0.45% Sodium Chloride",
+    "brands": [
+      "1/2 NS",
+      "Half Normal Saline"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 145,
+    "generic": "5% Dextrose in Ringer's Lactate",
+    "brands": [
+      "D5LR"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 146,
+    "generic": "5% Dextrose in 0.3% Sodium Chloride",
+    "brands": [
+      "D5 0.3% NaCl"
+    ],
+    "routes": [
+      "IV"
+    ]
+  },
+  {
+    "id": 147,
+    "generic": "Sterile Water for Injection",
+    "brands": [
+      "SWFI"
+    ],
+    "routes": [
+      "IV"
+    ]
+  }
+]

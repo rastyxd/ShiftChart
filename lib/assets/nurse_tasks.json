@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Vital Signs Check",
+    "category": "Monitoring",
+    "description": "Temperature, Pulse, Respirations, and Blood Pressure"
+  },
+  {
+    "name": "Blood Glucose Check",
+    "category": "Monitoring",
+    "description": "Capillary blood glucose monitoring (Fingerstick)"
+  },
+  {
+    "name": "Wound Care / Dressing Change",
+    "category": "Intervention",
+    "description": "Clean and change dressings as per orders"
+  },
+  {
+    "name": "Pain Assessment",
+    "category": "Assessment",
+    "description": "Evaluate pain level using standard scale"
+  },
+  {
+    "name": "Neurological Observation",
+    "category": "Monitoring",
+    "description": "GCS, pupil reaction, and limb strength"
+  },
+  {
+    "name": "Intake/Output (I&O) Recording",
+    "category": "Monitoring",
+    "description": "Measure and record all fluid intake and output"
+  },
+  {
+    "name": "Turn/Reposition Patient",
+    "category": "Care",
+    "description": "Change patient position to prevent pressure ulcers"
+  },
+  {
+    "name": "Catheter Care",
+    "category": "Care",
+    "description": "Routine cleaning and maintenance of urinary catheter"
+  },
+  {
+    "name": "IV Site Assessment",
+    "category": "Assessment",
+    "description": "Check for phlebitis, infiltration, or redness"
+  },
+  {
+    "name": "NGT Feeding / Patency Check",
+    "category": "Intervention",
+    "description": "Administer enteral nutrition or check tube placement"
+  },
+  {
+    "name": "Surgical Site Check",
+    "category": "Assessment",
+    "description": "Monitor for bleeding or signs of infection"
+  },
+  {
+    "name": "Incentive Spirometry",
+    "category": "Respiratory",
+    "description": "Encourage deep breathing exercises"
+  },
+  {
+    "name": "Suctioning (Oral/Tracheal)",
+    "category": "Respiratory",
+    "description": "Clear secretions from airway"
+  },
+  {
+    "name": "Weight Measurement",
+    "category": "Monitoring",
+    "description": "Daily or shift-based weight monitoring"
+  }
+]

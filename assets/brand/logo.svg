@@ -1,0 +1,10 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tilted Pill Logo (ShiftChart Brand) -->
+  <g transform="translate(50 50) rotate(-40.1)">
+    <!-- Left Half (Solid Brand Green) -->
+    <path d="M 0 -22 L -23 -22 A 22 22 0 0 0 -23 22 L 0 22 Z" fill="#91C49B" />
+
+    <!-- Right Half (50% Opacity) -->
+    <path d="M 0 -22 L 23 -22 A 22 22 0 0 1 23 22 L 0 22 Z" fill="#91C49B" fill-opacity="0.5" />
+  </g>
+</svg>
