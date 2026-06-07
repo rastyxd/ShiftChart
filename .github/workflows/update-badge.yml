@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: main # Force checkout of the main branch instead of the tag commit
 
       - name: Extract Tag Name
         id: pre
