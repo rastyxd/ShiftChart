@@ -27,4 +27,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update release badge to ${{ env.VERSION }} [skip ci]" || exit 0
-          git push origin HEAD:{{ github.ref.name }}
+          git push origin HEAD:{{ github.ref_name }}
