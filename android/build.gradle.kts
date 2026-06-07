@@ -23,3 +23,9 @@ subprojects {
 tasks.register<Delete>("clean") {
     delete(rootProject.layout.buildDirectory)
 }
+buildscript {
+    repositories {
+        google() // <--- Must be first
+        mavenCentral()
+    }
+}
